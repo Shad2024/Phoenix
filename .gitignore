@@ -1,0 +1,10 @@
+
+.venv/
+Datasets/
+outputs/
+Models/
+*.pth
+*.pt
+*.onnx
+__pycache__/
+*.pyc

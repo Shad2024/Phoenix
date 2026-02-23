@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "image.png",
+        "percentages": {
+            "no damage": 96.75,
+            "minor damage": 0.29,
+            "major damage": 2.95,
+            "destroyed": 0.01
+        }
+    },
+    {
+        "filename": "Screenshot 2025-10-10 161844.png",
+        "percentages": {
+            "no damage": 90.95,
+            "minor damage": 0.29,
+            "major damage": 8.76,
+            "destroyed": 0.0
+        }
+    }
+]
